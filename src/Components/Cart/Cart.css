@@ -1,0 +1,25 @@
+    .cart-body {
+    font-family: "Open Sans", sans-serif;
+    background: #0c0b09;
+    color: #fff;
+  }
+  
+  a {
+    color: #cda45e;
+    text-decoration: none;
+  }
+
+.menu-img {
+    width: 70px;
+    border-radius: 50%;
+    float: left;
+    border: 5px solid rgba(255, 255, 255, 0.2);
+  }
+  .cupon-field {
+    border: 2px solid rgb(152, 195, 152);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: rgb(153, 214, 185);
+    
+  }

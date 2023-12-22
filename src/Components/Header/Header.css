@@ -1,0 +1,18 @@
+/* .custom_nav-container .navbar-nav .nav-item.active .nav-link  {
+    color: #ffbe33;
+} */
+.tip{
+    background-color: rgb(208, 131, 37);
+    border-radius: 50px;
+    position: relative;
+    color: rgb(247, 244, 247);
+    width: 17px;
+    height: 18px;
+    text-align: center;
+    font-size: smaller;
+ 
+    margin-block-end : auto;
+    right: 25px;
+    top: 3px;
+ 
+   }
